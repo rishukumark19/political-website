@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  let currentLanguage = "en";
+  let currentLanguage = "hi";
 
   const langButtons = {
     en: document.getElementById("lang-en"),
@@ -223,7 +223,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   // Initial content load
-  setLanguage("en");
+  setLanguage("hi");
 
   // Intersection Observer for fade-in sections
   const sections = document.querySelectorAll(".fade-in-section");
