@@ -249,10 +249,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Use a different set of images for the slideshow
     const images = [
-      "ragni-singh_facebook_images/469278203_122127321668568862_7895165270689994959_n.jpg",
-      "ragni-singh_facebook_images/img1.jpg",
-      "ragni-singh_facebook_images/img3.jpg",
-      "ragni-singh_facebook_images/img5.jpg",
+      "ragni_singh_facebook_images/img27.jpg",
+      "ragni_singh_facebook_images/img28.jpg",
+      "ragni_singh_facebook_images/img20.jpg",
+      "ragni_singh_facebook_images/img21.jpg",
     ];
 
     images.forEach((imgSrc, index) => {

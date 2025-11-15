@@ -18,7 +18,7 @@ window.content = {
     },
     about: {
       title: "About Ragini Sanjeev Singh",
-      image: "ragni-singh_facebook_images/2PIcyqpptfD.png",
+      image: "ragni_singh_facebook_images/img20.jpg",
       logo: "ragni_singh_facebook_images/bjp-logo.jpg",
       body: [
         "Born into the renowned Singh Mansion political family of Dhanbad, Ragini Sanjeev Singh continues a powerful legacy of public service. As the wife of former MLA Sanjeev Singh, and daughter-in-law of the formidable Ex MLA Suryadeo Singh & Ex MLA Smt Kunti Singh, she has been immersed in the political landscape of Jharia from a young age.",
@@ -68,42 +68,42 @@ window.content = {
           title: "Birthday Blessings in Upar Kulhi",
           description:
             "Attended the first birthday of Raja Singh ji's granddaughter, blessing the child with love at P.N. Singh Campus.",
-          image: "ragni-singh_facebook_images/img1.jpg",
+          image: "ragni_singh_facebook_images/img21.jpg",
         },
         {
           date: "November 13, 2025",
           title: "Support for Injured Journalist",
           description:
             "Visited journalist Shri Satyendra Chauhan at Patliputra Hospital after he was attacked, wishing him a speedy recovery.",
-          image: "ragni-singh_facebook_images/img2.jpg",
+          image: "ragni_singh_facebook_images/img22.jpg",
         },
         {
           date: "November 12, 2025",
           title: "District Development Meetings",
           description:
             "Participated in key meetings at Dhanbad Collectorate for the Secondary Education Committee and the CM's Livestock Development Scheme.",
-          image: "ragni-singh_facebook_images/img3.jpg",
+          image: "ragni_singh_facebook_images/img23.jpg",
         },
         {
           date: "November 11, 2025",
           title: "Constituency Health Visit",
           description:
             "Visited the residence of Shri Shekhar Singh ji in Radhanagar to inquire about his father's health.",
-          image: "ragni-singh_facebook_images/img4.jpg",
+          image: "ragni_singh_facebook_images/img24.jpg",
         },
         {
           date: "November 11, 2025",
           title: "Chhathi Ceremony in Kolakushma",
           description:
             "Attended the Chhathi ceremony of Sri Nipen Chaudhary ji's grandson, extending congratulations to the family.",
-          image: "ragni-singh_facebook_images/img5.jpg",
+          image: "ragni_singh_facebook_images/img25.jpg",
         },
         {
           date: "November 10, 2025",
           title: "Standing with Victims of Crime",
           description:
             "Visited and assured support to oil trader Shri Shyam Bhimsaria ji after he was a victim of firing and robbery in Barwa Adda.",
-          image: "ragni-singh_facebook_images/img6.jpg",
+          image: "ragni_singh_facebook_images/img26.jpg",
         },
       ],
     },
@@ -199,12 +199,15 @@ window.content = {
     gallery: {
       title: "Gallery",
       images: [
-        "ragni-singh_facebook_images/img1.jpg",
-        "ragni-singh_facebook_images/img2.jpg",
-        "ragni-singh_facebook_images/img3.jpg",
-        "ragni-singh_facebook_images/img4.jpg",
-        "ragni-singh_facebook_images/img5.jpg",
-        "ragni-singh_facebook_images/img6.jpg",
+        "ragni_singh_facebook_images/img20.jpg",
+        "ragni_singh_facebook_images/img21.jpg",
+        "ragni_singh_facebook_images/img22.jpg",
+        "ragni_singh_facebook_images/img23.jpg",
+        "ragni_singh_facebook_images/img24.jpg",
+        "ragni_singh_facebook_images/img25.jpg",
+        "ragni_singh_facebook_images/img26.jpg",
+        "ragni_singh_facebook_images/img27.jpg",
+        "ragni_singh_facebook_images/img28.jpg",
       ],
     },
     contact: {
@@ -290,7 +293,7 @@ window.content = {
     },
     about: {
       title: "रागिनी संजीव सिंह के बारे में",
-      image: "ragni-singh_facebook_images/2PIcyqpptfD.png",
+      image: "ragni_singh_facebook_images/img20.jpg",
       logo: "ragni_singh_facebook_images/bjp-logo.jpg",
       body: [
         "धनबाद के प्रसिद्ध सिंह मैंशन राजनीतिक परिवार में जन्मी रागिनी संजीव सिंह जनसेवा की एक शक्तिशाली विरासत को आगे बढ़ा रही हैं। पूर्व विधायक संजीव सिंह की पत्नी और पूर्व विधायक सूर्यदेव सिंह और पूर्व विधायक श्रीमती कुंती सिंह की बहू के रूप में, वह कम उम्र से ही झरिया की राजनीतिक परिदृश्य में डूबी हुई हैं।",
@@ -340,42 +343,42 @@ window.content = {
           title: "उपर कुल्ही में जन्मदिन का आशीर्वाद",
           description:
             "राजा सिंह जी की पोती के पहले जन्मदिन में शामिल होकर पी.एन. सिंह कैंपस में बच्ची को प्यार भरा आशीर्वाद दिया।",
-          image: "ragni-singh_facebook_images/img1.jpg",
+          image: "ragni_singh_facebook_images/img21.jpg",
         },
         {
           date: "१३ नवंबर, २०२५",
           title: "घायल पत्रकार के लिए समर्थन",
           description:
             "हमले के बाद पत्रकार श्री सत्येंद्र चौहान से पाटलिपुत्र अस्पताल में मुलाकात की और उनके शीघ्र स्वस्थ होने की कामना की।",
-          image: "ragni-singh_facebook_images/img2.jpg",
+          image: "ragni_singh_facebook_images/img22.jpg",
         },
         {
           date: "१२ नवंबर, २०२५",
           title: "जिला विकास बैठकें",
           description:
             "धनबाद समाहरणालय में माध्यमिक शिक्षा समिति और मुख्यमंत्री पशुधन विकास योजना की महत्वपूर्ण बैठकों में भाग लिया।",
-          image: "ragni-singh_facebook_images/img3.jpg",
+          image: "ragni_singh_facebook_images/img23.jpg",
         },
         {
           date: "११ नवंबर, २०२५",
           title: "निर्वाचन क्षेत्र का स्वास्थ्य दौरा",
           description:
             "राधानगर में श्री शेखर सिंह जी के आवास पर जाकर उनके पिता के स्वास्थ्य के बारे में जानकारी ली।",
-          image: "ragni-singh_facebook_images/img4.jpg",
+          image: "ragni_singh_facebook_images/img24.jpg",
         },
         {
           date: "११ नवंबर, २०२५",
           title: "कोलाकुसमा में छठी समारोह",
           description:
             "श्री निपेन चौधरी जी के पोते के छठी समारोह में शामिल होकर परिवार को बधाई दी।",
-          image: "ragni-singh_facebook_images/img5.jpg",
+          image: "ragni_singh_facebook_images/img25.jpg",
         },
         {
           date: "१० नवंबर, २०२५",
           title: "अपराध पीड़ितों के साथ खड़ी",
           description:
             "बरवा अड्डा में गोलीबारी और डकैती के शिकार तेल व्यापारी श्री श्याम भीमसरिया जी से मुलाकात की और समर्थन का आश्वासन दिया।",
-          image: "ragni-singh_facebook_images/img6.jpg",
+          image: "ragni_singh_facebook_images/img26.jpg",
         },
       ],
     },
@@ -471,12 +474,15 @@ window.content = {
     gallery: {
       title: "गैलरी",
       images: [
-        "ragni-singh_facebook_images/img1.jpg",
-        "ragni-singh_facebook_images/img2.jpg",
-        "ragni-singh_facebook_images/img3.jpg",
-        "ragni-singh_facebook_images/img4.jpg",
-        "ragni-singh_facebook_images/img5.jpg",
-        "ragni-singh_facebook_images/img6.jpg",
+        "ragni_singh_facebook_images/img20.jpg",
+        "ragni_singh_facebook_images/img21.jpg",
+        "ragni_singh_facebook_images/img22.jpg",
+        "ragni_singh_facebook_images/img23.jpg",
+        "ragni_singh_facebook_images/img24.jpg",
+        "ragni_singh_facebook_images/img25.jpg",
+        "ragni_singh_facebook_images/img26.jpg",
+        "ragni_singh_facebook_images/img27.jpg",
+        "ragni_singh_facebook_images/img28.jpg",
       ],
     },
     contact: {
