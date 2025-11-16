@@ -12,16 +12,16 @@ window.content = {
       { href: "#contact", label: "Contact" },
     ],
     hero: {
-      name: "Ragini Sanjeev Singh",
+      name: "Ragni Singh",
       tagline: "झारिया की बेटी", // Daughter of Jharia
       subTagline: "Historic Victory for Jharia",
     },
     about: {
-      title: "About Ragini Sanjeev Singh",
+      title: "About Ragni Singh",
       image: "ragni_singh_facebook_images/img20.jpg",
       logo: "ragni_singh_facebook_images/bjp-logo.jpg",
-      body: [
-        "Born into the renowned Singh Mansion political family of Dhanbad, Ragini Sanjeev Singh continues a powerful legacy of public service. As the wife of former MLA Sanjeev Singh, and daughter-in-law of the formidable Ex MLA Suryadeo Singh & Ex MLA Smt Kunti Singh, she has been immersed in the political landscape of Jharia from a young age.",
+            body: [
+        "Born into the renowned Singh Mansion political family of Dhanbad, Ragini Singh continues a powerful legacy of public service. As the wife of former MLA Sanjeev Singh, and daughter-in-law of the formidable Ex MLA Suryadeo Singh & Ex MLA Smt Kunti Singh, she has been immersed in the political landscape of Jharia from a young age.",
         "Transitioning from a dedicated House Maker to a dynamic political leader, Ragini Singh has a deep, grassroots understanding of the challenges and aspirations of the people of Jharia. Her victory in the 2024 assembly elections marks a new chapter for the constituency, driven by a commitment to development, empowerment, and transparent governance.",
       ],
       stats: [
@@ -29,7 +29,7 @@ window.content = {
         { label: "Community Engagement", value: "9K+" },
       ],
       details: [
-        { label: "Full Name", value: "Ragini Sanjeev Singh" },
+        { label: "Full Name", value: "Ragni Singh" },
         { label: "Born", value: "23 January 1981 (Age 44)" },
         { label: "Constituency", value: "Jharia, Dhanbad, Jharkhand" },
         { label: "Position", value: "Member of Legislative Assembly (MLA)" },
@@ -218,21 +218,19 @@ window.content = {
       email: "raginisanjeevsinghbjp@gmail.com",
       hoursLabel: "Office Hours",
       hours: "Monday-Saturday, 10 AM - 5 PM",
-      socialTitle: "Follow My Journey",
-      socialLinks: [
         {
           name: "Facebook",
-          href: "https://facebook.com/RaginiSingh01/",
+          href: "https://facebook.com/RaginiSingh.official/",
           path: "M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z",
         },
         {
           name: "Twitter",
-          href: "https://twitter.com/raginisingh7007",
+          href: "https://twitter.com/raginisingh",
           path: "M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z",
         },
         {
           name: "Instagram",
-          href: "https://instagram.com/Raginisingh.official",
+          href: "https://instagram.com/RaginiSingh.official/",
           path: "M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.85s-.011 3.585-.069 4.85c-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07s-3.585-.012-4.85-.07c-3.252-.148-4.771-1.691-4.919-4.919-.058-1.265-.069-1.645-.069-4.85s.011-3.585.069-4.85c.149-3.225 1.664-4.771 4.919-4.919 1.266-.058 1.644-.07 4.85-.07zM12 0C8.74 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.74 0 12s.014 3.667.072 4.947c.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.74 24 12 24s3.667-.014 4.947-.072c4.358-.2 6.78-2.618 6.98-6.98C23.986 15.667 24 15.26 24 12s-.014-3.667-.072-4.947c-.2-4.358-2.618-6.78-6.98-6.98C15.667.014 15.26 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.88 1.44 1.44 0 000-2.88z",
         },
         {
@@ -249,7 +247,7 @@ window.content = {
     },
     footer: {
       copyright:
-        "© 2024 Ragini Sanjeev Singh | Paid for by the Bharatiya Janata Party (BJP). All Rights Reserved.",
+        "© 2024 Ragni Singh | Paid for by the Bharatiya Janata Party (BJP). All Rights Reserved.",
     },
     journey: {
       title: "Political Journey",
@@ -287,16 +285,16 @@ window.content = {
       { href: "#contact", label: "संपर्क" },
     ],
     hero: {
-      name: "रागिनी संजीव सिंह",
+      name: "रागिनी सिंह",
       tagline: "झारिया की बेटी",
       subTagline: "झरिया के लिए ऐतिहासिक जीत",
     },
     about: {
-      title: "रागिनी संजीव सिंह के बारे में",
+      title: "रागिनी सिंह के बारे में",
       image: "ragni_singh_facebook_images/img20.jpg",
       logo: "ragni_singh_facebook_images/bjp-logo.jpg",
       body: [
-        "धनबाद के प्रसिद्ध सिंह मैंशन राजनीतिक परिवार में जन्मी रागिनी संजीव सिंह जनसेवा की एक शक्तिशाली विरासत को आगे बढ़ा रही हैं। पूर्व विधायक संजीव सिंह की पत्नी और पूर्व विधायक सूर्यदेव सिंह और पूर्व विधायक श्रीमती कुंती सिंह की बहू के रूप में, वह कम उम्र से ही झरिया की राजनीतिक परिदृश्य में डूबी हुई हैं।",
+        "धनबाद के प्रसिद्ध सिंह मैंशन राजनीतिक परिवार में जन्मी रागिनी सिंह जनसेवा की एक शक्तिशाली विरासत को आगे बढ़ा रही हैं। पूर्व विधायक संजीव सिंह की पत्नी और पूर्व विधायक सूर्यदेव सिंह और पूर्व विधायक श्रीमती कुंती सिंह की बहू के रूप में, वह कम उम्र से ही झरिया की राजनीतिक परिदृश्य में डूबी हुई हैं।",
         "एक समर्पित गृहणी से एक गतिशील राजनीतिक नेता बनने तक, रागिनी सिंह को झरिया के लोगों की चुनौतियों और आकांक्षाओं की गहरी, जमीनी समझ है। २०२४ के विधानसभा चुनावों में उनकी जीत निर्वाचन क्षेत्र के लिए एक नया अध्याय है, जो विकास, सशक्तिकरण और पारदर्शी शासन की प्रतिबद्धता से प्रेरित है।",
       ],
       stats: [
@@ -304,7 +302,7 @@ window.content = {
         { label: "सामुदायिक जुड़ाव", value: "९ हजार+" },
       ],
       details: [
-        { label: "पूरा नाम", value: "रागिनी संजीव सिंह" },
+        { label: "पूरा नाम", value: "रागिनी सिंह" },
         { label: "जन्म", value: "२३ जनवरी १९८१ (आयु ४४)" },
         { label: "निर्वाचन क्षेत्र", value: "झरिया, धनबाद, झारखंड" },
         { label: "पद", value: "विधान सभा सदस्य (विधायक)" },
@@ -497,17 +495,17 @@ window.content = {
       socialLinks: [
         {
           name: "Facebook",
-          href: "https://facebook.com/RaginiSingh01/",
+          href: "https://facebook.com/RaginiSingh.official/",
           path: "M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z",
         },
         {
           name: "Twitter",
-          href: "https://twitter.com/raginisingh7007",
+          href: "https://twitter.com/raginisingh",
           path: "M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z",
         },
         {
           name: "Instagram",
-          href: "https://instagram.com/Raginisingh.official",
+          href: "https://instagram.com/RaginiSingh.official/",
           path: "M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.85s-.011 3.585-.069 4.85c-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07s-3.585-.012-4.85-.07c-3.252-.148-4.771-1.691-4.919-4.919-.058-1.265-.069-1.645-.069-4.85s.011-3.585.069-4.85c.149-3.225 1.664-4.771 4.919-4.919 1.266-.058 1.644-.07 4.85-.07zM12 0C8.74 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.74 0 12s.014 3.667.072 4.947c.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.74 24 12 24s3.667-.014 4.947-.072c4.358-.2 6.78-2.618 6.98-6.98C23.986 15.667 24 15.26 24 12s-.014-3.667-.072-4.947c-.2-4.358-2.618-6.78-6.98-6.98C15.667.014 15.26 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.88 1.44 1.44 0 000-2.88z",
         },
         {
@@ -524,7 +522,7 @@ window.content = {
     },
     footer: {
       copyright:
-        "© २०२४ रागिनी संजीव सिंह | भारतीय जनता पार्टी (भाजपा) द्वारा भुगतान किया गया। सर्वाधिकार सुरक्षित।",
+        "© २०२४ रागिनी सिंह | भारतीय जनता पार्टी (भाजपा) द्वारा भुगतान किया गया। सर्वाधिकार सुरक्षित।",
     },
     journey: {
       title: "राजनीतिक सफ़र",

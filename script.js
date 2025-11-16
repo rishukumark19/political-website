@@ -223,7 +223,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   // Initial content load
-  setLanguage("hi");
+  setLanguage("en");
 
   // Intersection Observer for fade-in sections
   const sections = document.querySelectorAll(".fade-in-section");
@@ -248,25 +248,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!slideshowContainer) return;
 
     // Use a different set of images for the slideshow
-    const images = [
-      "ragni_singh_facebook_images/img23.jpg",
-      "ragni_singh_facebook_images/img24.jpg",
-      "ragni_singh_facebook_images/img25.jpg",
-      "ragni_singh_facebook_images/img26.jpg",
-      "ragni_singh_facebook_images/img27.jpg",
-      "ragni_singh_facebook_images/img28.jpg",
-
-      "ragni_singh_facebook_images/img21.jpg",
-      "ragni_singh_facebook_images/img22.jpg",
-
-      "ragni_singh_facebook_images/img3.jpg",
-      "ragni_singh_facebook_images/img5.jpg",
-      "ragni_singh_facebook_images/img7.jpg",
-      "ragni_singh_facebook_images/img8.jpg",
-      "ragni_singh_facebook_images/img9.jpg",
-
-      "ragni_singh_facebook_images/img13.jpg",
-    ];
+    const images = window.content?.en?.gallery?.images || [];
 
     images.forEach((imgSrc, index) => {
       const slide = document.createElement("div");
